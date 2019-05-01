@@ -1,7 +1,0 @@
-This is a Test file.
-Test one two.
-add a new line.
-
-git change.
-
-git second change.
